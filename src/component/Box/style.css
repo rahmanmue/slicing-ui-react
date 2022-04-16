@@ -1,0 +1,28 @@
+
+.title{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.desc{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    margin: 12px 0;
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.44);
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.title-span{
+    font-size: 25px;
+    color: var(--clr-white-1); 
+}
+

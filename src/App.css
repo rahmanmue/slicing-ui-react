@@ -1,0 +1,37 @@
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  border: none;
+}
+
+.boxes{
+  display: flex;
+  height: 331px;
+  max-width: 1440px;
+}
+
+.blog{
+  padding: 83px 0 136px 0;
+}
+
+.about{
+  padding: 97px 0 92px 0 ;
+}
+
+.contact{
+  margin: 92px 0 100px 0;
+}
+
+.footer{
+  padding-top: 58px;
+  padding-bottom: 103px;
+  font-family: var(--ff-secondary-2);
+  color: var(--clr-white-1);
+  background-color: var(--clr-primary-1);
+}

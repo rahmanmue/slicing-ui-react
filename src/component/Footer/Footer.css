@@ -1,0 +1,70 @@
+
+.footer{
+    height: 579px;
+    font-family: var(--ff-secondary-2);
+    color: var(--clr-white-1);
+}
+
+.main-footer{
+    padding: 97px 43px 0px 110px;
+    display: flex;
+}
+
+.company-info{
+    width: 368.29px;
+    height: 177px;
+    font-weight: 500;
+    font-size: 25px;
+    margin-top: 36px;
+    margin-bottom: 50px;
+}
+
+
+.company .sosmed img{
+    width: 28px;
+    height: 28px;
+    margin-right: 51px;
+}
+
+.navigasi h1, .kontaks h1{
+    font-weight: 900;
+    font-size: 30px;
+    margin-bottom: 36px;
+    margin-top: 80px;
+}
+
+.navigasi{
+    margin: 0 150px 0 100px;
+}
+
+.navigasi ul li{
+  
+    margin: 20px 0;
+    box-sizing: border-box;
+}
+
+
+.navigasi li a{
+    color: rgba(255, 255, 255, 0.62);
+    font-weight: 500;
+    font-size: 20px;
+  
+}
+
+.navigasi li a.active{
+    border-bottom: 2px solid white;
+    color: var(--clr-white-1);
+}
+
+.kontak{
+    display: flex;
+    align-items: flex-start; 
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 18px;
+   
+}
+
+.kontak img{
+    margin-right: 10px;
+}
