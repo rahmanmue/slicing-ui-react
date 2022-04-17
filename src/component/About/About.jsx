@@ -10,7 +10,7 @@ export const About = () => {
     <section className="about">
       <Container flex={"flex"} direction={"column"} padding={170}>
         <div>
-          <img src={quote} alt="quote" />
+          <img src={quote} alt="quote" style={{ marginRight: "5px" }} />
           <img src={quote} alt="quote" />
         </div>
         <div className="quote-text">
